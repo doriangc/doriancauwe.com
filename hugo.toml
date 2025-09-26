@@ -2,7 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 defaultContentLanguage = 'en-us'
 title = 'Dorian Cauwe'
-theme = 'hugo-blog-awesome'
+theme = 'hugo-theme'
 
 [Languages.en-us]
   languageName = 'English'
